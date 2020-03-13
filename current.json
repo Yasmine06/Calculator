@@ -1,0 +1,435 @@
+[
+    {
+        "Vacant Lot/Raw Land" :{
+         "Downtown Metro":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" n/a ", 
+                "Outdoor Small Cell":" $50,400 ", 
+                "Small Cell On New Pole":" $58,800 ", 
+                "Small Cell On Structure":" n/a "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $218,400 ", 
+                "Roof Top Cell Site":" n/a ", 
+                "Cell Site On Structure":" n/a "
+         
+             },
+             "Fiber":{
+                "Fiber Terminal":" $15,000 ", 
+       "Fiber Hut":" $36,000 "
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"n/a", 
+                "Dedicated Room":"n/a"
+             }
+         },
+         "Urban":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" n/a ", 
+       "Outdoor Small Cell":" $46,200 ", 
+       "Small Cell On New Pole":" $54,600 ", 
+       "Small Cell On Structure":" n/a "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $197,400 ", 
+       "Roof Top Cell Site":" n/a ", 
+       "Cell Site On Structure":" n/a "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $12,000 ", 
+       "Fiber Hut":" $30,000 "
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"n/a", 
+                "Dedicated Room":"n/a"
+             }
+         },
+         "Suburban":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" n/a ", 
+                "Outdoor Small Cell":" $42,000 ", 
+                "Small Cell On New Pole":" $50,400 ", 
+                "Small Cell On Structure":" n/a "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $176,400 ", 
+                "Roof Top Cell Site":" n/a ", 
+                "Cell Site On Structure":" n/a "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $9,000 ", 
+       "Fiber Hut":" $18,000 "
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"n/a", 
+                "Dedicated Room":"n/a"
+             }
+         },
+         "Small City":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" n/a ", 
+                "Outdoor Small Cell":" $42,000 ", 
+                "Small Cell On New Pole":" $50,400 ", 
+                "Small Cell On Structure":" n/a "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $176,400 ", 
+       "Roof Top Cell Site":" n/a ", 
+       "Cell Site On Structure":" n/a "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $9,000", 
+                "Fiber Hut":" $18,000 "
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"n/a", 
+       "Dedicated Room":"n/a"
+
+             }
+         },
+         "Rural":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" n/a ", 
+                "Outdoor Small Cell":" $33,600 ", 
+                "Small Cell On New Pole":" $42,000 ", 
+                "Small Cell On Structure":" n/a "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $134,400 ", 
+                "Roof Top Cell Site":" n/a ", 
+                "Cell Site On Structure":" n/a "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $6,000 ", 
+       "Fiber Hut":" $12,000"
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"n/a", 
+                "Dedicated Room":"n/a"
+             }
+         }
+        },
+        "Residential":{
+         "Downtown Metro":{
+             "Small Cell Site":{
+                "Indoor Small Cell":"$42,000", 
+                "Outdoor Small Cell":" $50,400", 
+                "Small Cell On New Pole":" $58,800 ", 
+                "Small Cell On Structure":"$67,200"
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $210,000 ", 
+                "Roof Top Cell Site":"$252,000", 
+                "Cell Site On Structure":"$336,000"
+         
+             },
+             "Fiber":{
+                "Fiber Terminal":" $15,000", 
+       "Fiber Hut":" $36,000 " 
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"$96,000", 
+                "Dedicated Room":"$300,000"
+             }
+         },
+         "Urban":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" $37,800 ", 
+                "Outdoor Small Cell":" $46,200 ", 
+                "Small Cell On New Pole":" $54,600 ", 
+                "Small Cell On Structure":" $63,000 "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $189,000 ", 
+                "Roof Top Cell Site":" $226,800 ", 
+                "Cell Site On Structure":" $310,800 "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $12,000 ", 
+       "Fiber Hut":" $30,000 "
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"$84,000", 
+                "Dedicated Room":"$240,000"
+             }
+         },
+         "Suburban":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" $33,600 ", 
+                "Outdoor Small Cell":" $42,000 ", 
+                "Small Cell On New Pole":" $50,400 ", 
+                "Small Cell On Structure":" $58,800 "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $168,000 ", 
+                "Roof Top Cell Site":" $201,600 ", 
+                "Cell Site On Structure":" $285,600"
+             },
+             "Fiber":{
+                "Fiber Terminal":" $9,000 ", 
+                "Fiber Hut":" $30,000"
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"$72,000", 
+                "Dedicated Room":"$180,000"
+             }
+         },
+         "Small City":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" $33,600 ", 
+                "Outdoor Small Cell":" $42,000 ", 
+                "Small Cell On New Pole":" $50,400 ", 
+                "Small Cell On Structure":" $58,800 "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $168,000 ", 
+                "Roof Top Cell Site":" $201,600 ", 
+                "Cell Site On Structure":" $285,600 "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $9,000 ", 
+                "Fiber Hut":" $30,000 "
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"$72,000", 
+                "Dedicated Room":"$180,000"
+             }
+         },
+         "Rural":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" $25,200", 
+       "Outdoor Small Cell":" $33,600", 
+       "Small Cell On New Pole":" $42,000 ", 
+       "Small Cell On Structure":" $50,400 "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $126,000 ", 
+       "Roof Top Cell Site":" $168,000", 
+       "Cell Site On Structure":" $252,000 "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $6,000", 
+       "Fiber Hut":" $24,000"
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"$48,000", 
+                "Dedicated Room":"$120,000"
+             }
+         }
+        },
+        "Office Building/MDU":{
+         "Downtown Metro":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" $58,800 ", 
+                "Outdoor Small Cell":" $67,200 ", 
+                "Small Cell On New Pole":" $75,600 ", 
+                "Small Cell On Structure":" $84,000 "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $226,800 ", 
+                "Roof Top Cell Site":" $504,000", 
+                "Cell Site On Structure":" $378,000 "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $21,000 ", 
+       "Fiber Hut":" $42,000 "
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"$120,000", 
+                "Dedicated Room":"$360,000"
+             }
+         },
+         "Urban":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" $54,600 ", 
+                "Outdoor Small Cell":" $63,000 ", 
+                "Small Cell On New Pole":" $71,400 ", 
+                "Small Cell On Structure":" $79,800 "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $205,800 ", 
+       "Roof Top Cell Site":"$453,600  ", 
+       "Cell Site On Structure":" $352,800"
+             },
+             "Fiber":{
+                "Fiber Terminal":" $18,000 ", 
+                "Fiber Hut":" $36,000"
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"$96,000", 
+       "Dedicated Room":"$300,000"
+             }
+         },
+         "Suburban":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" $50,400 ", 
+                "Outdoor Small Cell":" $58,800 ", 
+                "Small Cell On New Pole":" $67,200 ", 
+                "Small Cell On Structure":" $75,600 "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $184,800 ", 
+                "Roof Top Cell Site":" $403,200 ", 
+                "Cell Site On Structure":" $327,600 "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $15,000 ", 
+                "Fiber Hut":" $36,000 "
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"$84,000", 
+       "Dedicated Room":"$204,000"
+             }
+         },
+         "Small City":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" $50,400 ", 
+                "Outdoor Small Cell":" $58,800 ", 
+                "Small Cell On New Pole":" $67,200 ", 
+                "Small Cell On Structure":" $75,600 "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $184,800 ", 
+                "Roof Top Cell Site":" $403,200 ", 
+                "Cell Site On Structure":" $327,600 "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $15,000 ", 
+                "Fiber Hut":" $36,000 "
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"$84,000", 
+                "Dedicated Room":"$204,000"
+             }
+         },
+         "Rural":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" $42,000", 
+       "Outdoor Small Cell":" $50,400 ", 
+       "Small Cell On New Pole":" $58,800 ", 
+       "Small Cell On Structure":" $67,200"
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $142,800 ", 
+       "Roof Top Cell Site":" $336,000 ", 
+       "Cell Site On Structure":" $294,000 "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $12,000 ", 
+                "Fiber Hut":" $30,000 "
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"$60,000", 
+                "Dedicated Room":"$150,000"
+             }
+         }
+        },
+        "Industrial/Farm":{
+         "Downtown Metro":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" $50,400 ", 
+                "Outdoor Small Cell":" $58,800 ", 
+                "Small Cell On New Pole":" $67,200 ", 
+                "Small Cell On Structure":" $75,600 "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $222,600 ", 
+                "Roof Top Cell Site":" $420,000 ", 
+                "Cell Site On Structure":" $369,600 "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $18,000 ", 
+                "Fiber Hut":" $39,000"
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"$108,000", 
+       "Dedicated Room":"$324,000"
+             }
+         },
+         "Urban":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" $46,200 ", 
+       "Outdoor Small Cell":" $54,600 ", 
+       "Small Cell On New Pole":" $63,000 ", 
+       "Small Cell On Structure":" $71,400"
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $201,600 ", 
+                "Roof Top Cell Site":" $369,600", 
+                "Cell Site On Structure":" $344,400 "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $15,000 ", 
+                "Fiber Hut":" $33,000 "
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"$96,000", 
+                "Dedicated Room":"$264,000"
+             }
+         },
+         "Suburban":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" $42,000 ", 
+                "Outdoor Small Cell":" $50,400 ", 
+                "Small Cell On New Pole":" $58,800", 
+                "Small Cell On Structure":" $67,200"
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $180,600 ", 
+       "Roof Top Cell Site":" $319,200 ", 
+       "Cell Site On Structure":" $319,200 "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $12,000 ", 
+                "Fiber Hut":" $33,000 "
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"$84,000", 
+       "Dedicated Room":"$192,000"
+             }
+         },
+         "Small City":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" $42,000 ", 
+                "Outdoor Small Cell":" $50,400 ", 
+                "Small Cell On New Pole":" $58,800 ", 
+                "Small Cell On Structure":" $67,200 "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $180,600 ", 
+                "Roof Top Cell Site":" $319,200 ", 
+                "Cell Site On Structure":" $319,200 "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $12,000 ", 
+                "Fiber Hut":" $33,000 "
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"$84,000", 
+                "Dedicated Room":"$180,000"
+             }
+         },
+         "Rural":{
+             "Small Cell Site":{
+                "Indoor Small Cell":" $33,600 ", 
+                "Outdoor Small Cell":" $42,000 ", 
+                "Small Cell On New Pole":" $50,400 ", 
+                "Small Cell On Structure":" 58,800 "
+             },
+             "Full Size Cell Site":{
+                "Cell Tower":" $138,600", 
+                "Roof Top Cell Site":" $252,000", 
+                "Cell Site On Structure":" $285,600 "
+             },
+             "Fiber":{
+                "Fiber Terminal":" $9,000 ", 
+                "Fiber Hut":" $27,000"
+             },
+             "Indoor Equipment":{
+                "Mini Data Center":"$54,000", 
+                "Dedicated Room":"$120,000"
+             }
+         }
+        }
+    }  
+ ]
